@@ -1,0 +1,18 @@
+.center-pic {
+  text-align: center;
+}
+.container {
+  text-align: center;
+  padding:10px;
+  position: relative;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  border: 2px;
+}
+.container p {
+  text-align: center;
+}
+
+
+
+
